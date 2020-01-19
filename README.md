@@ -1,3 +1,3 @@
-# RenegadeHR2020
-Attach your telegram bot's token api as a token.ini file, into the same folder as ed1_kingscup.py /n
+# RenegadeHR202
+Attach your telegram bot's token api as a token.ini file, into the same folder as ed1_kingscup.py <br>
 Have fun!
